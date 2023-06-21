@@ -28,3 +28,21 @@ Ways to call a function
 3.Constructor Style
 
 theres no return in a contructor style function
+
+
+callbacks are alwyas incokded
+
+
+
+
+`bind` returns a new function with the context permanently bound
+
+
+bind is a function we invoke on a function
+
+# Asynchronicity
+
+
+
+
+Readline Demo
