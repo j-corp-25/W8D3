@@ -4,3 +4,15 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
+function Clock(hour,minute){
+    this.hour
+    this.minute
+}
+
+Clock.prototype._tick = function(){
+    
+}
+
+Clock.prototype.printTime = function(){
+
+}
